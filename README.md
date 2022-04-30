@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My resume
 
 You can use the [editor on GitHub](https://github.com/Reamaro/Rollie-Amaro-Resume/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
